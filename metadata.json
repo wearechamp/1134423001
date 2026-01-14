@@ -1,0 +1,5 @@
+{
+  "name": "Hoop Duel: 4x4 Toss-Tac-Toe",
+  "description": "A physics-based skill game combining Ring Toss with Tic-Tac-Toe on a 4x4 grid. Charge your throw with the spacebar and aim to connect four in a row!",
+  "requestFramePermissions": []
+}
